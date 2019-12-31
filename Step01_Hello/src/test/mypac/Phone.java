@@ -6,5 +6,6 @@ public class Phone {
 	}
 	public void takePicture() {
 		System.out.println("사진을 찍어요");
+
 	}
 }
